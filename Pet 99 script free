@@ -1,1 +1,1 @@
-pet99 script free 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danardarya/Showcase/refs/heads/main/Pet%2099%20script%20free"))()
